@@ -18,7 +18,7 @@ DrawInAir is an innovative project that lets you sketch and interact with digita
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/arjunrd07/DrawInAir.git
+git clone https://github.com/gaganpyla/DrawInAir.git
 cd DrawInAir
 pip install -r requirements.txt
 ```
